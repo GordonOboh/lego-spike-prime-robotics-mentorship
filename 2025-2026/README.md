@@ -60,6 +60,8 @@ Xbox controller-controlled driving base with gripper, built with Pybricks.
 
 <img src="xbox_1.png" width="400" alt="Xbox controller button layout">
 
+*Xbox controller button layout*
+
 **Control flow:**
 
 ```mermaid
@@ -106,17 +108,25 @@ After adding the gripper, one of the scholars suggested turning it into a **game
 <img src="driving-base-gripper/images/IMG_7742.jpg" width="600" alt="Scholars testing and setting up the game">
 <img src="driving-base-gripper/images/IMG_7744.jpg" width="600" alt="Section of the game field">
 
+*Scholars setting up the game*
+
 ### Driving Base with Gripper Test
 
 <video src="driving-base-gripper/videos/IMG_7536.mp4" width="600" controls></video>
+
+*Testing the drive base with gripper*
 
 ### Game Play
 
 <video src="driving-base-gripper/videos/IMG_7743.mp4" width="600" controls></video>
 
+*Scholars trying out the game*
+
 ### Drawing with the Robot
 
 <video src="driving-base-gripper/videos/IMG_9262.mp4" width="600" controls></video>
+
+*Drawing with the robot*
 
 ---
 
@@ -129,3 +139,5 @@ Staff, parents, and scholars from other schools came to see the game and robot b
 <img src="showcase/images/IMG_9407.jpg" width="600" alt="Visitors engaging with the project">
 <img src="showcase/images/IMG_9408.jpg" width="600" alt="Visitors engaging with the project">
 <img src="showcase/images/IMG_9409.jpg" width="600" alt="Visitors engaging with the project">
+
+*Visitors engaging with the project at the showcase*

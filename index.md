@@ -71,11 +71,11 @@ We built the track ourselves: black tape on white paper, red markers at the star
 
 A new year, a new cohort, more gender-diverse. For the upcoming showcase, I wanted something that would appeal to as many scholars as possible.
 
-I started them with a simple LEGO Education lesson called **Pass the Brick**, a collaborative activity where they pass a LEGO brick around using the robot. No complex code, just teamwork and a taste of what the machines could do. They loved it.
+I started them with a simple LEGO Education lesson called [Pass the Brick](https://education.lego.com/en-us/lessons/prime-extra-resources/pass-the-brick/), a collaborative activity where they pass a LEGO brick around using the robot. No complex code, just teamwork and a taste of what the machines could do. They loved it.
 
 Once they were comfortable, I showed them what the previous cohort had built: the car and the line-following robot. They could see where this was headed, and they were eager to get there.
 
-I then had them work through **Training Camp 1: Driving Around**, a structured lesson on controlling a driving base. They picked it up fast, and I made sure to acknowledge every win: the first straight line, the first turn without crashing.
+I then had them work through [Training Camp 1 — Driving Around](https://education.lego.com/en-us/lessons/prime-competition-ready/training-camp-1-driving-around/), a structured lesson on controlling a driving base. They picked it up fast, and I made sure to acknowledge every win: the first straight line, the first turn without crashing.
 
 Then came the final project: combining a **driving base with a gripper**. Not just moving, but interacting: grabbing, carrying, and manipulating objects.
 
@@ -116,9 +116,9 @@ The showcase brought staff, parents, and scholars from other schools to see what
 | Category | Links |
 |----------|-------|
 | Full index | [`Files.md`](Files.md) |
-| Project car code | `car_devine.py` |
-| Line follower | `Line_Following.llsp3` · `Line_Following_mid1.llsp3` |
-| Driving base | `DriveBase_1.py` |
+| Project car code | [`car_devine.py`](2024-2025/project-car/car_devine.py) |
+| Line follower | [`Line_Following.llsp3`](2024-2025/line-follower/Line_Following.llsp3) · [`Line_Following_mid1.llsp3`](2024-2025/line-follower/Line_Following_mid1.llsp3) |
+| Driving base | [`DriveBase_1.py`](2025-2026/DriveBase_1.py) |
 | Project car reference | [`project-car/reference/`](2024-2025/project-car/reference/) |
 | Project car images | [`project-car/images/`](2024-2025/project-car/images/) |
 | Project car videos | [`project-car/videos/`](2024-2025/project-car/videos/) |

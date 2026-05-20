@@ -66,12 +66,16 @@ flowchart LR
 ### Headlight Demo
 Ultrasonic sensor headlight demo — 4 modes: Off, Low, High, All.
 
-<video src="videos/IMG_4618.mp4" width="600" controls></video>
+<video src="videos/IMG_4618 (2).mp4" width="600" controls></video>
+
+*Headlight demo*
 
 ### Racing
 Students racing the finished cars.
 
 <video src="videos/IMG_5159.mp4" width="600" controls></video>
+
+*Scholars racing the finished cars*
 
 ## Reference
 
@@ -80,3 +84,5 @@ Screenshots from the TikTok video that inspired the build — an IRL project car
 <img src="reference/Screenshot%202025-03-10%20232014.png" width="400">
 <img src="reference/Screenshot%202025-03-10%20232034.png" width="400">
 <img src="reference/Screenshot%202025-03-10%20231940.png" width="400">
+
+*Design inspiration from TikTok/YouTube*
