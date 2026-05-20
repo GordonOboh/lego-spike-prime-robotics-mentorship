@@ -12,11 +12,11 @@ A scholar pulled out his Chromebook and showed a TikTok video of someone's proje
 
 I asked them to find LEGO builds similar to what they saw. Over the next few sessions, we built it piece by piece — rear drive, steering, motors, and ultrasonic sensors that doubled as headlights.
 
-![Finished robot](2024-2025/project-car/images/IMG_5122.jpg)
-![Rear wheel drive and gear setup](2024-2025/project-car/images/IMG_5157.jpg)
-![TikTok inspiration](2024-2025/project-car/reference/Screenshot%202025-03-10%20232014.png)
+<img src="2024-2025/project-car/images/IMG_5122.jpg" width="600" alt="Finished robot">
+<img src="2024-2025/project-car/images/IMG_5157.jpg" width="600" alt="Rear wheel drive and gear setup">
+<img src="2024-2025/project-car/reference/Screenshot%202025-03-10%20232014.png" width="400" alt="TikTok inspiration">
 
-<video src="2024-2025/project-car/videos/IMG_5159.mp4" controls></video>
+<video src="2024-2025/project-car/videos/IMG_5159.mp4" width="600" controls></video>
 
 When the hardware was done, I walked them through the Python programming and controller setup.
 
@@ -32,8 +32,8 @@ I adapted it for the LEGO kit, stripped it down to the essentials, and used it t
 
 We built the track ourselves: black tape on white paper, red markers at the start and end.
 
-![Line follower robot](2024-2025/line-follower/videos/IMG_4684.jpg)
-<video src="2024-2025/line-follower/videos/IMG_4684.mp4" controls></video>
+<img src="2024-2025/line-follower/videos/IMG_4684.jpg" width="600" alt="Line follower robot">
+<video src="2024-2025/line-follower/videos/IMG_4684.mp4" width="600" controls></video>
 
 [▶ Line Follower details &rarr;](2024-2025/line-follower/README.md)
 
@@ -45,17 +45,17 @@ A new year. A new cohort — more gender-diverse. I started them with simple col
 
 They worked through driving basics, then graduated to a **driving base with a gripper**. After we added the gripper, one of the scholars suggested making a **game** out of it. I showed them how to set up the controllers, then stepped back and let them figure out the rules themselves.
 
-![Scholars testing the game](2025-2026/driving-base-gripper/images/IMG_7742.jpg)
-![Section of the game field](2025-2026/driving-base-gripper/images/IMG_7744.jpg)
+<img src="2025-2026/driving-base-gripper/images/IMG_7742.jpg" width="600" alt="Scholars testing the game">
+<img src="2025-2026/driving-base-gripper/images/IMG_7744.jpg" width="600" alt="Section of the game field">
 
-<video src="2025-2026/driving-base-gripper/videos/IMG_7536.mp4" controls></video>
-<video src="2025-2026/driving-base-gripper/videos/IMG_7743.mp4" controls></video>
-<video src="2025-2026/driving-base-gripper/videos/IMG_9262.mp4" controls></video>
+<video src="2025-2026/driving-base-gripper/videos/IMG_7536.mp4" width="600" controls></video>
+<video src="2025-2026/driving-base-gripper/videos/IMG_7743.mp4" width="600" controls></video>
+<video src="2025-2026/driving-base-gripper/videos/IMG_9262.mp4" width="600" controls></video>
 
 The showcase brought staff, parents, and scholars from other schools to see what they had built.
 
-![Showcase visitors](2025-2026/showcase/images/IMG_9401.jpg)
-![Showcase visitors](2025-2026/showcase/images/IMG_9406.jpg)
+<img src="2025-2026/showcase/images/IMG_9401.jpg" width="600" alt="Showcase visitors">
+<img src="2025-2026/showcase/images/IMG_9406.jpg" width="600" alt="Showcase visitors">
 
 [▶ 2025-2026 details &rarr;](2025-2026/README.md)
 

@@ -96,13 +96,20 @@ flowchart LR
 
 After adding the gripper, one of the scholars suggested turning it into a **game**. I showed them how to set up the controllers, then stepped back and let them figure out the rules and the setup themselves. They owned it from there.
 
-| File | Description |
-|------|-------------|
-| `driving-base-gripper/videos/IMG_7536.mp4` | Testing the drive base with gripper |
-| `driving-base-gripper/images/IMG_7742.jpg` | Scholars testing and setting up the game |
-| `driving-base-gripper/videos/IMG_7743.mp4` | Scholars trying out the game |
-| `driving-base-gripper/images/IMG_7744.jpg` | Section of the game field |
-| `driving-base-gripper/videos/IMG_9262.mp4` | Scholar using robot with marker to draw on paper |
+<img src="driving-base-gripper/images/IMG_7742.jpg" width="600" alt="Scholars testing and setting up the game">
+<img src="driving-base-gripper/images/IMG_7744.jpg" width="600" alt="Section of the game field">
+
+### Driving Base with Gripper Test
+
+<video src="driving-base-gripper/videos/IMG_7536.mp4" width="600" controls></video>
+
+### Game Play
+
+<video src="driving-base-gripper/videos/IMG_7743.mp4" width="600" controls></video>
+
+### Drawing with the Robot
+
+<video src="driving-base-gripper/videos/IMG_9262.mp4" width="600" controls></video>
 
 ---
 
@@ -110,10 +117,8 @@ After adding the gripper, one of the scholars suggested turning it into a **game
 
 Staff, parents, and scholars from other schools came to see the game and robot built by the Robotics scholars.
 
-| File | Description |
-|------|-------------|
-| `showcase/images/IMG_9401.jpg` | Visitors engaging with the project |
-| `showcase/images/IMG_9406.jpg` | Visitors engaging with the project |
-| `showcase/images/IMG_9407.jpg` | Visitors engaging with the project |
-| `showcase/images/IMG_9408.jpg` | Visitors engaging with the project |
-| `showcase/images/IMG_9409.jpg` | Visitors engaging with the project |
+<img src="showcase/images/IMG_9401.jpg" width="600" alt="Visitors engaging with the project">
+<img src="showcase/images/IMG_9406.jpg" width="600" alt="Visitors engaging with the project">
+<img src="showcase/images/IMG_9407.jpg" width="600" alt="Visitors engaging with the project">
+<img src="showcase/images/IMG_9408.jpg" width="600" alt="Visitors engaging with the project">
+<img src="showcase/images/IMG_9409.jpg" width="600" alt="Visitors engaging with the project">

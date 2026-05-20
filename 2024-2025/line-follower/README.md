@@ -57,6 +57,6 @@ We built the track ourselves — black tape on white paper with red markers at t
 
 ## Video
 
-| File | Description |
-|------|-------------|
-| `videos/IMG_4684.mp4` | Line-following robot demo — tracking black line, red markers signal start/end |
+Line-following robot demo — tracking black line, red markers signal start/end.
+
+<video src="videos/IMG_4684.mp4" width="600" controls></video>

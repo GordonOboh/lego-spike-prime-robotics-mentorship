@@ -51,24 +51,27 @@ flowchart LR
 
 | Stage | Image |
 |-------|-------|
-| Early build — rear wheel drive and gear setup | ![Build progress](images/IMG_5153.jpg) ![Build progress](images/IMG_5155.jpg) ![Build progress](images/IMG_5156.jpg) |
-| Driving motor close-up | ![Driving motor](images/IMG_5154.jpg) |
-| Almost complete — waiting on ultrasonic sensors (headlights) | ![Without sensor](images/IMG_5152.jpg) |
-| Finished robot | ![Finished robot](images/IMG_5157.jpg) |
+| Early build — rear wheel drive and gear setup | <img src="images/IMG_5153.jpg" width="300"> <img src="images/IMG_5155.jpg" width="300"> <img src="images/IMG_5156.jpg" width="300"> |
+| Driving motor close-up | <img src="images/IMG_5154.jpg" width="300"> |
+| Almost complete — waiting on ultrasonic sensors (headlights) | <img src="images/IMG_5152.jpg" width="300"> |
+| Finished robot | <img src="images/IMG_5157.jpg" width="300"> |
 
 ## Videos
 
-| File | Description |
-|------|-------------|
-| `videos/IMG_4618.mov` | Ultrasonic sensor headlight demo — 4 modes: Off, Low, High, All |
-| `videos/IMG_5159.mp4` | Students racing the finished cars |
+### Headlight Demo
+Ultrasonic sensor headlight demo — 4 modes: Off, Low, High, All.
+
+<video src="videos/IMG_4618.mp4" width="600" controls></video>
+
+### Racing
+Students racing the finished cars.
+
+<video src="videos/IMG_5159.mp4" width="600" controls></video>
 
 ## Reference
 
 Screenshots from the TikTok video that inspired the build — an IRL project car suggested by a scholar.
 
-| File |
-|------|
-| `reference/Screenshot 2025-03-10 231940.png` |
-| `reference/Screenshot 2025-03-10 232014.png` |
-| `reference/Screenshot 2025-03-10 232034.png` |
+<img src="reference/Screenshot%202025-03-10%20232014.png" width="400">
+<img src="reference/Screenshot%202025-03-10%20232034.png" width="400">
+<img src="reference/Screenshot%202025-03-10%20231940.png" width="400">
