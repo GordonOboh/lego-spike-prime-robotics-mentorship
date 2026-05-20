@@ -19,7 +19,7 @@ A scholar pulled out his Chromebook and showed a TikTok video of someone's proje
 
 I asked them to find LEGO builds similar to what they saw. Over the next few sessions, we built it piece by piece — rear drive, steering, motors, and ultrasonic sensors that doubled as headlights.
 
-<img src="2024-2025/project-car/images/IMG_5156.jpg" width="300" alt="Rear wheel drive and gear setup"> <img src="2024-2025/project-car/images/IMG_5155.jpg" width="300" alt="Rear wheel drive and gear setup"> <img src="2024-2025/project-car/images/IMG_5154.jpg" width="300" alt="Close view of the driving motor">
+<img src="2024-2025/project-car/images/IMG_5156.jpg" width="300" alt="Rear wheel drive and gear setup"> <img src="2024-2025/project-car/images/IMG_5154.jpg" width="300" alt="Rear wheel drive and gear setup"> <!--<img src="2024-2025/project-car/images/IMG_5155.jpg" width="300" alt="Close view of the driving motor">-->
 
 <img src="2024-2025/project-car/images/IMG_5152.jpg" width="600" alt="Build without ultrasonic sensor">
 
