@@ -98,11 +98,11 @@ After adding the gripper, one of the scholars suggested turning it into a **game
 
 | File | Description |
 |------|-------------|
-| `driving-base-gripper/videos/IMG_7536.MOV` | Testing the drive base with gripper |
-| `driving-base-gripper/images/IMG_7742.HEIC` | Scholars testing and setting up the game |
-| `driving-base-gripper/videos/IMG_7743.MOV` | Scholars trying out the game |
-| `driving-base-gripper/images/IMG_7744.HEIC` | Section of the game field |
-| `driving-base-gripper/videos/IMG_9262.MOV` | Scholar using robot with marker to draw on paper |
+| `driving-base-gripper/videos/IMG_7536.mp4` | Testing the drive base with gripper |
+| `driving-base-gripper/images/IMG_7742.jpg` | Scholars testing and setting up the game |
+| `driving-base-gripper/videos/IMG_7743.mp4` | Scholars trying out the game |
+| `driving-base-gripper/images/IMG_7744.jpg` | Section of the game field |
+| `driving-base-gripper/videos/IMG_9262.mp4` | Scholar using robot with marker to draw on paper |
 
 ---
 
@@ -112,8 +112,8 @@ Staff, parents, and scholars from other schools came to see the game and robot b
 
 | File | Description |
 |------|-------------|
-| `showcase/images/IMG_9401.HEIC` | Visitors engaging with the project |
-| `showcase/images/IMG_9406.HEIC` | Visitors engaging with the project |
-| `showcase/images/IMG_9407.HEIC` | Visitors engaging with the project |
-| `showcase/images/IMG_9408.HEIC` | Visitors engaging with the project |
-| `showcase/images/IMG_9409.HEIC` | Visitors engaging with the project |
+| `showcase/images/IMG_9401.jpg` | Visitors engaging with the project |
+| `showcase/images/IMG_9406.jpg` | Visitors engaging with the project |
+| `showcase/images/IMG_9407.jpg` | Visitors engaging with the project |
+| `showcase/images/IMG_9408.jpg` | Visitors engaging with the project |
+| `showcase/images/IMG_9409.jpg` | Visitors engaging with the project |
