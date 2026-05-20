@@ -1,3 +1,8 @@
+---
+layout: default
+title: Building More Than Robots
+---
+
 # Building More Than Robots
 
 A two-year journey building LEGO SPIKE Prime robots with scholars — from an RC car inspired by a TikTok video, to a PID line-follower, to a gripper game designed by the scholars themselves.
@@ -23,7 +28,7 @@ I asked them to find LEGO builds similar to what they saw. Over the next few ses
 
 When the hardware was done, I walked them through the Python programming and controller setup. We tested the ultrasonic sensors configured as headlights — four modes cycling through Off, Low, High, and All lights. Seeing the car respond to their code, lighting up on command, was the moment it all clicked for them.
 
-<video src="2024-2025/project-car/videos/IMG_4618.mp4" width="600" controls></video>
+<video src="2024-2025/project-car/videos/IMG_4618 (2).mp4" width="600" controls></video>
 
 Then came the best part: we lined up the cars and let the scholars race what they built.
 
@@ -40,8 +45,9 @@ I showed them a project I had built for my own Robotics coursework — a line-fo
 I adapted it for the LEGO kit, stripped it down to the essentials, and used it to introduce a core engineering concept: the **PID controller**. They didn't need to master the math — just understand that there's a difference between something that *works* and something that's *tuned*.
 
 We built the track ourselves: black tape on white paper, red markers at the start and end.
-
+<!--
 <img src="2024-2025/line-follower/videos/IMG_4684.jpg" width="600" alt="Line follower robot">
+-->
 <video src="2024-2025/line-follower/videos/IMG_4684.mp4" width="600" controls></video>
 
 [▶ Line Follower details &rarr;](2024-2025/line-follower/README.md)

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Project Car
+---
+
 # Project Car — LEGO SPIKE Prime RC Car
 
 A LEGO SPIKE Prime car inspired by a TikTok video of someone's project car. Built by a group of robotics scholars under my guidance for a school showcase.

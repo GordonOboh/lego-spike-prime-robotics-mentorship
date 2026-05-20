@@ -1,3 +1,8 @@
+---
+layout: default
+title: 2025-2026 — Driving Base with Gripper
+---
+
 # 2025-2026 — Driving Base with Gripper
 
 A new cohort, more gender-diverse, and a project that grew from simple lessons into a game designed by the scholars themselves.

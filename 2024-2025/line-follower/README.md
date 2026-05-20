@@ -1,3 +1,8 @@
+---
+layout: default
+title: Line-Following Robot
+---
+
 # Line-Following Robot
 
 A line-following robot built as the second project for the school showcase. Adapted from a coursework project I had built for my own Robotics class — scaled down in scope and complexity to work with the LEGO SPIKE Prime kit and sensors available.
