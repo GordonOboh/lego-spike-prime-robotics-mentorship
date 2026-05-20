@@ -1,0 +1,4 @@
+# Large video files (convert to compressed .mp4 before committing)
+*.mov
+*.MOV
+*.HEIC
