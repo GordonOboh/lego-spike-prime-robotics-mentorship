@@ -46,7 +46,7 @@ Then came the best part: we lined up the cars and let the scholars race what the
 
 *Scholars racing the finished cars*
 
-[▶ Project Car details &rarr;](2024-2025/project-car/README.md)
+[▶ Project Car details &rarr;](2024-2025/project-car/README)
 
 ---
 
@@ -64,7 +64,7 @@ We built the track ourselves: black tape on white paper, red markers at the star
 
 *Line-following robot tracking the course*
 
-[▶ Line Follower details &rarr;](2024-2025/line-follower/README.md)
+[▶ Line Follower details &rarr;](2024-2025/line-follower/README)
 
 ---
 
@@ -108,7 +108,7 @@ The showcase brought staff, parents, and scholars from other schools to see what
 
 *Visitors engaging with the project at the showcase*
 
-[▶ 2025-2026 details &rarr;](2025-2026/README.md)
+[▶ 2025-2026 details &rarr;](2025-2026/README)
 
 ---
 
