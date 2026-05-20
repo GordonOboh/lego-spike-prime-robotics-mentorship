@@ -53,6 +53,8 @@ Xbox controller-controlled driving base with gripper, built with Pybricks.
 - Gripper motor: Port E
 - Drive base: 56mm wheels, 112mm axle track
 
+<img src="xbox_1.png" width="400" alt="Xbox controller button layout">
+
 **Control flow:**
 
 ```mermaid
