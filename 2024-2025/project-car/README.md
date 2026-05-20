@@ -66,14 +66,14 @@ flowchart LR
 ### Headlight Demo
 Ultrasonic sensor headlight demo — 4 modes: Off, Low, High, All.
 
-<video src="videos/IMG_4618 (2).mp4" width="600" controls></video>
+{::nomarkdown}<video src="videos/IMG_4618 (2).mp4" width="600" controls></video>{:/nomarkdown}
 
 *Headlight demo*
 
 ### Racing
 Students racing the finished cars.
 
-<video src="videos/IMG_5159.mp4" width="600" controls></video>
+{::nomarkdown}<video src="videos/IMG_5159.mp4" width="600" controls></video>{:/nomarkdown}
 
 *Scholars racing the finished cars*
 

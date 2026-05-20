@@ -112,19 +112,19 @@ After adding the gripper, one of the scholars suggested turning it into a **game
 
 ### Driving Base with Gripper Test
 
-<video src="driving-base-gripper/videos/IMG_7536.mp4" width="600" controls></video>
+{::nomarkdown}<video src="driving-base-gripper/videos/IMG_7536.mp4" width="600" controls></video>{:/nomarkdown}
 
 *Testing the drive base with gripper*
 
 ### Game Play
 
-<video src="driving-base-gripper/videos/IMG_7743.mp4" width="600" controls></video>
+{::nomarkdown}<video src="driving-base-gripper/videos/IMG_7743.mp4" width="600" controls></video>{:/nomarkdown}
 
 *Scholars trying out the game*
 
 ### Drawing with the Robot
 
-<video src="driving-base-gripper/videos/IMG_9262.mp4" width="600" controls></video>
+{::nomarkdown}<video src="driving-base-gripper/videos/IMG_9262.mp4" width="600" controls></video>{:/nomarkdown}
 
 *Drawing with the robot*
 
