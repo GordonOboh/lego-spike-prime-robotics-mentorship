@@ -12,7 +12,7 @@ A line-following robot built as the second project for the school showcase. Adap
 ### Line_Following.llsp3 — "Benito" (84 blocks)
 Original version built with `flippermotor` blocks (speed-based motor control). Movement on ports EF, color sensor on port B, distance sensor on port D.
 
-### Line_Following_mid1.llsp3 — "Diddy" (95 blocks)
+### Line_Following_mid1.llsp3 — "DD" (95 blocks)
 Tuned version with `flippermoremotor` (power-based individual motor control). Movement on ports CD, color sensor on port A, distance sensor on port F. Non-zero PID variables (Error=-22.5, Correction=-13.5) confirm it was field-tested and tuned.
 
 ## Program Flow
