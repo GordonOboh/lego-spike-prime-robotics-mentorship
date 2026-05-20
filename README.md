@@ -1,14 +1,60 @@
-# LEGO SPIKE Prime Robotics
+# Building More Than Robots
 
-Robotics projects built and mentored during the 2024-2025 school year — a project car and a line-following robot, both built with LEGO SPIKE Prime and programmed in Python (Pybricks) and VEXcode.
+A two-year journey building LEGO SPIKE Prime robots with scholars — from an RC car inspired by a TikTok video, to a PID line-follower, to a gripper game designed by the scholars themselves.
 
-## Projects
+---
 
-| Project | Description |
-|---------|-------------|
-| [Project Car](2024-2025/project-car/) | Xbox controller RC car with headlamps, obstacle warning, and trim/turbo modes |
-| [Line Follower](2024-2025/line-follower/) | PID-controlled line-tracking robot adapted from coursework |
+## 2024-2025
 
-## Story
+### The Project Car
 
-The full story behind these projects — from inspiration to showcase — is in [story.md](story.md).
+A scholar pulled out his Chromebook and showed a TikTok video of someone's project car. The other scholars leaned in. They liked it.
+
+I asked them to find LEGO builds similar to what they saw. Over the next few sessions, we built it piece by piece — rear drive, steering, motors, and ultrasonic sensors that doubled as headlights.
+
+![Finished robot](2024-2025/project-car/images/IMG_5122.jpg)
+
+When the hardware was done, I walked them through the Python programming and controller setup.
+
+[▶ Project Car details &rarr;](2024-2025/project-car/README.md)
+
+---
+
+### The Line-Following Robot
+
+I showed them a project I had built for my own Robotics coursework — a line-following robot. They wanted to build their own.
+
+I adapted it for the LEGO kit, stripped it down to the essentials, and used it to introduce a core engineering concept: the **PID controller**. They didn't need to master the math — just understand that there's a difference between something that *works* and something that's *tuned*.
+
+We built the track ourselves: black tape on white paper, red markers at the start and end.
+
+[▶ Line Follower details &rarr;](2024-2025/line-follower/README.md)
+
+---
+
+## 2025-2026
+
+A new year. A new cohort — more gender-diverse. I started them with simple collaborative activities, then showed them what the previous year's scholars had built.
+
+They worked through driving basics, then graduated to a **driving base with a gripper**. After we added the gripper, one of the scholars suggested making a **game** out of it. I showed them how to set up the controllers, then stepped back and let them figure out the rules themselves.
+
+The showcase brought staff, parents, and scholars from other schools to see what they had built.
+
+[▶ 2025-2026 details &rarr;](2025-2026/README.md)
+
+---
+
+## Files
+
+| Category | Links |
+|----------|-------|
+| Full index | [`Files.md`](Files.md) |
+| Project car code | `car_devine.py` |
+| Line follower | `Line_Following.llsp3` · `Line_Following_mid1.llsp3` |
+| Driving base | `DriveBase_1.py` |
+| Reference | [`project-car/reference/`](2024-2025/project-car/reference/) |
+| Full story | [`story (Improved).md`](story%20(Improved).md) |
+
+---
+
+*Scholars who walked in not knowing what to expect, and walked out having built something they were proud of. I just helped them find the way.*
