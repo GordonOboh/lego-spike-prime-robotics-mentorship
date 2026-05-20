@@ -29,8 +29,7 @@ I asked them to find LEGO builds similar to what they saw. Over the next few ses
 
 *Almost complete, waiting on the ultrasonic sensors*
 
-<img src="2024-2025/project-car/images/IMG_5122.jpg" width="600" alt="Finished robot">
-<img src="2024-2025/project-car/images/IMG_5157.jpg" width="600" alt="Finished robot">
+<img src="2024-2025/project-car/images/IMG_5122.jpg" width="300" alt="Finished robot"> <img src="2024-2025/project-car/images/IMG_5157.jpg" width="300" alt="Finished robot">
 
 *The finished robot*
 
